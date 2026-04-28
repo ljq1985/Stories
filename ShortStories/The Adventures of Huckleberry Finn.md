@@ -1,0 +1,12 @@
+# The Adventures of Huckleberry Finn
+## Chapter 1
+- In the small town of St.Petersburg, Missouri, lives a young boy named Huckleberry Finn. He is free and wild, spending his days exploring the woods and fishing in the mississippi River. Huck lives with the Widow Douglas and her sister Miss Watson, who try their best to civilize him.
+- On day, huck's father, Pap, comes back to town. He is a mean drunk who only wants Huck's money. To escape from his father, Huck fakes his own death and runs away to an island in the middle of the Mississippi River called Jackson's Island.
+## Chapter 2
+- On the island, Huck meets Jim, Miss Watson's slave. He is running away because he heard that she was planning to sell him down the river to New Orleans. Huck and Jim decide to travel together on a raft down the river, hoping fo find freedom. The river is dangerous but also beautiful. Huck and Jim encounter many adventures on their journey.
+- They meet two con men who call themselves the Duke and the King. These men cheat people out of their money and cause a lot of trouble for Huck and Jim. At first, Huck begins to feel bad about helping Jim because he belives it's wrong to help a runaway slave. Yet, as they face challenges togeter, Huck realizes that Jim is a good man and deservers to be free.
+## Chapter 3
+- One night, the Duke and the King sell Jim to the Phelps family plantation. Huck decides to rescue him, even if it means breaking the law. He goes to Aunt Sally's house, a member of the Phelps family. When they mistake him for their nephew Tom, who is coming for a visit, Huck plays along. When the real Tom arrives, he not only understands the situation, but also agrees to help Huck rescue Jim.
+- They come up with a complicated plan that involves digging a tunnel and sending messages. After a lot of effort and danger, they finally succeed in freeing Jim. However, during their escape, Tom gets shot in the leg. Jim, risking his own freedom, stays to help Tom. He is then arrested and returned to the plantation.
+## Chapter 4
+- Later, Tom's Aunt Polly arrives and reveals the boys' true identities. She explains that Miss Watson has died and frees Jim in her will. Jim tells Huck that his father was found dead, and that he may therefore return safely to St.Petersburg. Nevertheless, when his adventures come to the end, Huck decides to flee west to Indian Territory. He explains, "Aunt Sally she's going to adopt me and civilize me, and I can't stand it. I have been there before."
