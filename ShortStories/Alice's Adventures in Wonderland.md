@@ -1,11 +1,11 @@
 # Alice's Adventures in Wonderland
 ## Chapter 1
-- Once upon a time,there was a little girl named Alice. She had a big imagination and loved to daydream. One sunny day, while sitting under a tree, Alice saw a white rabbit. This was not an ordinary rabbit though. It was wearing a coat and carrying a watch! "Oh dear! I'm late!" it said.
+- Once upon a time,there was a little girl named Alice. She had a big imagination and loved to day dream. One sunny day, while sitting under a tree, Alice saw a white rabbit. This was not an ordinary rabbit though. It was wearing a coat and carrying a watch! "Oh dear! I'm late!" it said.
 - Curious, Alice followed the rabbit into a large hole under the tree. She fell down, down, down into a strange world. This place was very different from her home. It was called Wonderland.
 ## Chapter 2
 - In Wonderland, Alice found a small door. She was too big to go through it. Next to the door, she found a bottle labeled "Drink Me." She drank it and became small enough to go through the door.
 - However, the key to open it was on the table, and she was now too small to get it. So, she ate a cake labeled "Eat Me." which made her grow big again. She could reach the key, but now she was too big for the door again. Alice started to cry, and her tears filled the room.
-- Sudenly, the White Rabbit came by. He was surprised to see the giant Alice. He dropped his fan and gloves while running away. Alice picked up the fan and gloves and started fanning herself. As she did this, she began to shrink again. She quickly ran through the door before she could become too small.
+- Suddenly, the White Rabbit came by. He was surprised to see the giant Alice. He dropped his fan and gloves while running away. Alice picked up the fan and gloves and started fanning herself. As she did this, she began to shrink again. She quickly ran through the door before she could become too small.
 ## Chapter 3
 - On the other side, Alice met many strange characters. There was a Caterpillar who smoked. and a disappearing cheshire Cat with a big smile. There was a Hatter and a March Hare at an endless tea party. There was the Queen of Hearts who liked to shout, "Off with their heads!"
 - Alice joined the Hatter, the Hare, and a Dormouse for their never-ending tea party. The Hatter asked Alice riddles that didn't have answers, which confused her. Then, the Queen invited Alice to play a game of croquet. The game was strange because they used flamingos as mallets and hedgehogs as balls.
