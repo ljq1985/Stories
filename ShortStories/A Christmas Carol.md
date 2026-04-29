@@ -2,12 +2,32 @@
 ## Chapter 1
 - In the City of London lives a grumpy old man named Ebenezer Scrooge. He is miser. That's a person who loves money more than anything else. He is so stingy that he doesn't even buy coal to keep his office warm! His employee, Bob Cratchit, must wear lots of clothes to stay warm in the office. Scrooge doesn't like Christmas. He thinks people waste their money during this time.
 - One Christmas Eve, something strange happens. Scrooge sees the ghost of his dead business partner, Jacob Marley. Marley's ghost looks very scary. He carries chains made of money boxes, keys, and heavy locks. Marley tells Scrooge that he has these chains because he was greedy when he was alive. He also warns Scrooge that three more ghosts will visit him. Scrooge needs to listen to them if he doesn't want to be like Marley.
+### Reading test
+#### Scrooge is not ___.
+1. grumpy
+2. stingy
+3. happy
+#### Scrooge ___ money.
+1. love
+2. wastes
+3. carries
+#### Scrooge likes Christmas.
+1. Yes
+2. No
+3. the article doesn't say.
+#### Scrooge doesn't like his old bussiness partner Jacob Marley.
+1. Yes
+2. No
+3. the chapter doesn't say.
 ## Chapter 2
 - After the ghost leaves, Scrooge goes to bed thinking it was just a bad dream. But, at midnight, The Ghost of Christmas Past comes. This ghost looks strange. He somehow looks old and young at the same time.
 - The ghost takes Scrooge back to his childhood. Scrooge sees himself as a lonely boy reading books. He sees himself as a young man in love with a beautiful girl. Then, he watches himself lose the girl as he chooses money over love. Seeing all this makes Scrooge fell very sad.
+### Reading test
+#### What happens at midnight?
+1.
 ## Chapter 3
 - The next ghost is big and happy. It's the Ghost of Christmas Present. It shows Scrooge how other people, including Bob Cratchit, are celebrating Christmas. Bob's family is poor and his son, Tiny Tim, is sick. Yet, they are happy. They even say cheers to Scrooge, even though Scrooge isn't very nice to Bob, Scrooge feels guilty when he sees this.
-# Chapter 4
+## Chapter 4
 - Finally, the Ghost of Christmas Yet to Come arrives. This ghost is tall and quiet, and it wears black clothes. It shows Scrooge a future Christmas where Tiny Tim has died because his family doesn't have enough money for a doctor. Then, it shows Scrooge his own death. He is alone, and nobody cares that he is gone. Scrooge is very scared when he sees this. When Scrooge wakes up on Christmas morning, he is happy to see that everything was just a dream. But he also knows he needs to change.
-# Chapter 5
+## Chapter 5git
 - Scrooge buys a big turkey for Bob's family and gives money to poor people. He starts being kinder and more generous to everyone. By doing this, he saves Tiny Tim's life and becomes like a second father to him. Scrooge never goes back to his old ways. He starts to love Christmas and celebrates it with all his heart. He lives the rest of his life spreading happiness and kindness to everyone around him. The once grumpy and stingy Scrooge finally understands what Christmas means.
